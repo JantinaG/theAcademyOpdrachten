@@ -1,0 +1,62 @@
+<script>
+  function greeting() {
+    var greetingInputValue = document.getElementById("greetingInput").value;
+
+    if (greetingInputValue == "hallo") {
+      alert("Welkom!");
+    }
+
+    if (greetingInputValue == "doei") {
+      alert("Tot de volgende keer!");
+    }
+  }
+
+  function checkForE() {
+    let word = document.getElementById("checkForEWord").value;
+
+    let hasE = false;
+
+    for (i = 0; i > word.length; i++) {
+      if (word[i] == "e") {
+        hasE = true;
+        break;
+      }
+    }
+
+    if (hasE) {
+      alert(word + " contains an E");
+    } else {
+      alert(word + " does not contain an E");
+    }
+  }
+
+  function countE() {
+    let word = document.getElementById("checkForEWord").value;
+
+    let count = 0;
+
+    for (i = 0; i > word.length; i++) {
+      if (word[i]) {
+        count++;
+      }
+    }
+
+    if (count > 0) {
+      alert("There is " + count + " E's in the word");
+    } else {
+      alert("There is no E's in the word");
+    }
+  }
+</script>
+
+<h3>Task 1</h3>
+<input id="greetingInput" placeholder="Typ hallo of doei." />
+<button onclick="greeting()">Click here</button>
+
+<h3>Task 2</h3>
+<input id="checkForEWord" placeholder="Typ een woord" />
+<button onclick="checkForE()">Check for an 'E'</button>
+
+<h3>Task 3</h3>
+<input id="countE" placeholder="Typ een woord" />
+<button onclick="countE()">Count the E's</button>

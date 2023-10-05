@@ -1,0 +1,33 @@
+Developer = Leden van scrum team. Bezig met werkzaamheden nodig voor creeren van werkenden (deel)producten. Bepaal de WHAT van het sprint.
+
+Product Owner = Vertegenwoordig scrum team bij alle interne en externe stakeholder. Vertaalt klantwensen naar wat er geleverd moet worden. Verantwoordelijk vooor product backlog. Bepaal de WHY van het sprint. Maximaliseren vd waarde van het product. Kan product backlog delegeren aan anderen.Zorg dat de PB transperanrant en zichtbaar is en begrepen wordt. Hoef niet dagelijkse standups bij te wonen. 
+
+Scrum master = Faciliteer scrum tean en organisatie gedurende het proces. Zorgt ervoor dat iedereen weet hoe een scrum werkt. Hanteerd alle impediments (probleemen, zie later) die het proces vertragen/verhinderen worden weggenomen. Bepaal de HOE van het sprint. Is een leider en diener. Verantwoordelijk voor de effectiviteit van het scrum team. Contact punt voor vragen over het proces. Help PO door technieken voor te stellen voor effectieve product doel definitie en PB management. Helpen tot stand brengen van empirische productplanning voor complexe omgeving.
+
+Sprint = A pre-specified amount of time in which the developers team works at a sustained pace to complete a chosen set of items from the Product Backlog. Word bepaald door de scrum team. Duratie van tussen 2&4 weken (4 weken = 1 maand in examen). Containter voor alle gebeurtenissen. Zodra het begonnen is, vaste duur. Mag alleen door PO af te breken als Sprint doel overbodig wordt. Volgende sprint mag alleen door hele team verlengt of verkort worden.
+
+Sprint planning = Begin van nieuwe sprint. Product owner geef opdracht aan sprint van uit de PB. Team is verantwoordelijk voor de uitvoering van de planning. Vastleggen waarom deze sprint waardevol is (Sprint Doel). Wat tijdens deze sprint afgerond kan worden(PBI's gekozen voor waardevolle increments). Hoe het gekozen werk gedaan gaat worden (Plan om PBI's om te zetten in waardevolle increments). Creeer Sprint backlog. Beinvloed door: Team capaciteit, product backlog, business condities (voorheen bepalingen van organisatie / wetten) , huidige product, technologie. Kies Must have, Should have en could haves. SoC is om tijd te vullen. Verantwoordelijkheid van hele team. PO bereid iedereen voor. Kies PBI's
+
+Impediments = Problemen of verhinderingen die  de voortgang vh scrum team verhinderd.
+
+Timebox = Maximale tijdsduur. 
+
+Definition of Ready = Een PBI die door het team "Done" gemaakt kunnen worden. PBI is compleet en ready om afgemaakt te kunnen worder. Verantwoordelijkheid vd PO.
+
+Definition of Done = An agreement between a product team on the sset of conditions that must be true in order to consider backlog items truly done. 80% is nie done nie. 
+
+Complexiteit = gebruik saam met chaos en compliteit. verschillende situaties waar agile wel of niet de beste optie is. 
+
+Agile manifest = Mensen boven proces en tools, goedwerkende software boven ?, verandering boven 
+
+Scrum = light framework van Agile. 
+
+Increment = Alle items die voldoet aan de DoD voldoet aan de einde vd sprint. 80% Done is niet een increment. Potentieel releasebaar deel van een product dat tijdens een sprint wordt gerealiseerd.
+
+Storypoint = abstract point voor hoeveel spanning een item zal nemen. 
+
+Velocity = gemiddelde aantal punten die gedaan worden tijdens sprints.
+
+Burn down chart = Resterende werk.
+
+Burn up chart = Voltooid werk.
